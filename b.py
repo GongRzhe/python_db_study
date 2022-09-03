@@ -1,4 +1,5 @@
 import MySQLdb
+#do nothing
 class MysqlSearch(object):
     def __init__(self):
         self.get_conn()
